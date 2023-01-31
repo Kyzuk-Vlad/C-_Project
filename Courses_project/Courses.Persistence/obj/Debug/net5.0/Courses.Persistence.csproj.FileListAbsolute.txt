@@ -1,0 +1,17 @@
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.AssemblyInfo.cs
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Courses.Persistence.deps.json
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Courses.Persistence.dll
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Courses.Persistence.pdb
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Models.Application.dll
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Models.domain.dll
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Models.Application.pdb
+E:\Courses\Courses_project\Courses.Persistence\bin\Debug\net5.0\Models.domain.pdb
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.csproj.CopyComplete
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.dll
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\refint\Courses.Persistence.dll
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\Courses.Persistence.pdb
+E:\Courses\Courses_project\Courses.Persistence\obj\Debug\net5.0\ref\Courses.Persistence.dll

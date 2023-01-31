@@ -1,0 +1,15 @@
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.AssemblyInfo.cs
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.deps.json
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.json
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.runtimeconfig.dev.json
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.dll
+E:\Courses\Courses_project\User.Data\bin\Debug\net5.0\User.Data.pdb
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.dll
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\refint\User.Data.dll
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.pdb
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\User.Data.genruntimeconfig.cache
+E:\Courses\Courses_project\User.Data\obj\Debug\net5.0\ref\User.Data.dll

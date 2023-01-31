@@ -1,0 +1,12 @@
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.AssemblyInfo.cs
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.deps.json
+E:\Courses\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.dll
+E:\Courses\Courses_project\Models.domain\bin\Debug\net5.0\Models.domain.pdb
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.dll
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\refint\Models.domain.dll
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\Models.domain.pdb
+E:\Courses\Courses_project\Models.domain\obj\Debug\net5.0\ref\Models.domain.dll

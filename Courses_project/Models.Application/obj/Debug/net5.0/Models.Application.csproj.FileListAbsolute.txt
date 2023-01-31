@@ -1,0 +1,15 @@
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.csproj.AssemblyReference.cache
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.AssemblyInfoInputs.cache
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.AssemblyInfo.cs
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.csproj.CoreCompileInputs.cache
+E:\Courses\Courses_project\Models.Application\bin\Debug\net5.0\Models.Application.deps.json
+E:\Courses\Courses_project\Models.Application\bin\Debug\net5.0\Models.Application.dll
+E:\Courses\Courses_project\Models.Application\bin\Debug\net5.0\Models.Application.pdb
+E:\Courses\Courses_project\Models.Application\bin\Debug\net5.0\Models.domain.dll
+E:\Courses\Courses_project\Models.Application\bin\Debug\net5.0\Models.domain.pdb
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.csproj.CopyComplete
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.dll
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\refint\Models.Application.dll
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\Models.Application.pdb
+E:\Courses\Courses_project\Models.Application\obj\Debug\net5.0\ref\Models.Application.dll
